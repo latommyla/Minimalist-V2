@@ -1,11 +1,17 @@
 module.exports = {
-  purge: [],
+  purge: {
+    content: ['./public/**/*.html'],
+  },
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'robo': ['"Roboto"', 'sans-serif']
+      },
+    },
   },
   variants: {
     extend: {},
   },
   plugins: [],
-}
+};

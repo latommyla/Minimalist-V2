@@ -1,14 +1,32 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
   <link href="styles.css" rel="stylesheet">
   <title> Minimalist Portfolio </title>
 </head>
 
 <body>
-  <h1 class="font-bold text-red-700 text-4xl"> Minimalist Portfolio </h1>
+  <nav class="flex items-center justify-between flex-wrap bg-gray-300 p-3">
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+      <div class="text-sm text-center tracking-wider lg:flex-grow">
+        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white px-4"> Home </a>
+        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white px-4"> Work </a>
+        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white px-4"> About </a>
+        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white px-4"> Work </a>
+      </div>
+    </div>
+  </nav>
+
+
+  <div class="p-36">
+    <h1 class="font-robo font-bold text-center text-red-700 text-4xl"> TOMMY LA </h1>
+  </div>
+
 </body>
 
 </html>
