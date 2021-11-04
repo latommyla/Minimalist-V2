@@ -22356,8 +22356,12 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.font-robo-to {
+.font-robo {
   font-family: "Roboto", sans-serif;
+}
+
+.font-zen {
+  font-family: "Zen Kurenaido", sans-serif;
 }
 
 .text-xs {
@@ -53600,8 +53604,12 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .sm\:font-robo-to {
+  .sm\:font-robo {
     font-family: "Roboto", sans-serif;
+  }
+
+  .sm\:font-zen {
+    font-family: "Zen Kurenaido", sans-serif;
   }
 
   .sm\:text-xs {
@@ -84832,8 +84840,12 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .md\:font-robo-to {
+  .md\:font-robo {
     font-family: "Roboto", sans-serif;
+  }
+
+  .md\:font-zen {
+    font-family: "Zen Kurenaido", sans-serif;
   }
 
   .md\:text-xs {
@@ -116064,8 +116076,12 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .lg\:font-robo-to {
+  .lg\:font-robo {
     font-family: "Roboto", sans-serif;
+  }
+
+  .lg\:font-zen {
+    font-family: "Zen Kurenaido", sans-serif;
   }
 
   .lg\:text-xs {
@@ -147296,8 +147312,12 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .xl\:font-robo-to {
+  .xl\:font-robo {
     font-family: "Roboto", sans-serif;
+  }
+
+  .xl\:font-zen {
+    font-family: "Zen Kurenaido", sans-serif;
   }
 
   .xl\:text-xs {
@@ -178528,8 +178548,12 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .\32xl\:font-robo-to {
+  .\32xl\:font-robo {
     font-family: "Roboto", sans-serif;
+  }
+
+  .\32xl\:font-zen {
+    font-family: "Zen Kurenaido", sans-serif;
   }
 
   .\32xl\:text-xs {

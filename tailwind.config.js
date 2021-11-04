@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'robo': ['"Roboto"', 'sans-serif']
+        'robo': ['"Roboto"', 'sans-serif'],
+        'zen': ['"Zen Kurenaido"', 'sans-serif']
       },
     },
   },
