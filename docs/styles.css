@@ -22368,6 +22368,10 @@ video {
   font-family: "Montserrat", sans-serif;
 }
 
+.font-bebas {
+  font-family: "Bebas Neue", cursive;
+}
+
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -53620,6 +53624,10 @@ video {
     font-family: "Montserrat", sans-serif;
   }
 
+  .sm\:font-bebas {
+    font-family: "Bebas Neue", cursive;
+  }
+
   .sm\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -84858,6 +84866,10 @@ video {
 
   .md\:font-monst {
     font-family: "Montserrat", sans-serif;
+  }
+
+  .md\:font-bebas {
+    font-family: "Bebas Neue", cursive;
   }
 
   .md\:text-xs {
@@ -116100,6 +116112,10 @@ video {
     font-family: "Montserrat", sans-serif;
   }
 
+  .lg\:font-bebas {
+    font-family: "Bebas Neue", cursive;
+  }
+
   .lg\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -147340,6 +147356,10 @@ video {
     font-family: "Montserrat", sans-serif;
   }
 
+  .xl\:font-bebas {
+    font-family: "Bebas Neue", cursive;
+  }
+
   .xl\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -178578,6 +178598,10 @@ video {
 
   .\32xl\:font-monst {
     font-family: "Montserrat", sans-serif;
+  }
+
+  .\32xl\:font-bebas {
+    font-family: "Bebas Neue", cursive;
   }
 
   .\32xl\:text-xs {

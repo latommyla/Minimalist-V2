@@ -8,7 +8,8 @@ module.exports = {
       fontFamily: {
         'robo': ['"Roboto"', 'sans-serif'],
         'zen': ['"Zen Kurenaido"', 'sans-serif'],
-        'monst': ['"Montserrat"', 'sans-serif']
+        'monst': ['"Montserrat"', 'sans-serif'],
+        'bebas': ['"Bebas Neue"', 'cursive']
       },
     },
   },
