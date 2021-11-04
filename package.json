@@ -12,12 +12,12 @@
     "url": "git+https://github.com/latommyla/Minimalist-V2.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tommy La (tommyl.dmd@gmail.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/latommyla/Minimalist-V2/issues"
   },
-  "homepage": "https://github.com/latommyla/Minimalist-V2#readme",
+  "homepage": "https://github.com/latommyla/Minimalist-V2/public/index.html#index",
   "dependencies": {
     "autoprefixer": "^10.4.0",
     "postcss-cli": "^9.0.1",
