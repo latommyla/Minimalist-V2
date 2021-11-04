@@ -9,7 +9,7 @@ module.exports = {
         'robo': ['"Roboto"', 'sans-serif'],
         'zen': ['"Zen Kurenaido"', 'sans-serif'],
         'monst': ['"Montserrat"', 'sans-serif'],
-        'bebas': ['"Bebas Neue"', 'cursive']
+        'bebas': ['"Bebas Neue"', 'cursive'],
       },
     },
   },
