@@ -22364,6 +22364,10 @@ video {
   font-family: "Zen Kurenaido", sans-serif;
 }
 
+.font-monst {
+  font-family: "Montserrat", sans-serif;
+}
+
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -53612,6 +53616,10 @@ video {
     font-family: "Zen Kurenaido", sans-serif;
   }
 
+  .sm\:font-monst {
+    font-family: "Montserrat", sans-serif;
+  }
+
   .sm\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -84846,6 +84854,10 @@ video {
 
   .md\:font-zen {
     font-family: "Zen Kurenaido", sans-serif;
+  }
+
+  .md\:font-monst {
+    font-family: "Montserrat", sans-serif;
   }
 
   .md\:text-xs {
@@ -116084,6 +116096,10 @@ video {
     font-family: "Zen Kurenaido", sans-serif;
   }
 
+  .lg\:font-monst {
+    font-family: "Montserrat", sans-serif;
+  }
+
   .lg\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -147320,6 +147336,10 @@ video {
     font-family: "Zen Kurenaido", sans-serif;
   }
 
+  .xl\:font-monst {
+    font-family: "Montserrat", sans-serif;
+  }
+
   .xl\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -178554,6 +178574,10 @@ video {
 
   .\32xl\:font-zen {
     font-family: "Zen Kurenaido", sans-serif;
+  }
+
+  .\32xl\:font-monst {
+    font-family: "Montserrat", sans-serif;
   }
 
   .\32xl\:text-xs {
